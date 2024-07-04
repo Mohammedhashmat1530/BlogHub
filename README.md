@@ -11,3 +11,5 @@ tech stack
     
 
 Command- npm run dev
+
+will do this project
